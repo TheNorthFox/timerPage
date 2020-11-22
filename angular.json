@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "assessment2"
+  "defaultProject": "assessment2",
+  "cli": {
+    "analytics": "1c325a55-0881-43f0-82e5-b0a78792bc21"
+  }
 }
